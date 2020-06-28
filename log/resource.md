@@ -1,0 +1,16 @@
+- &nbsp;**webpack 使用 web worker**
+  - &nbsp;资料参考
+    - &nbsp;[Webpack项目中使用Web Worker](https://www.jianshu.com/p/b35fabc98ff9)
+    - &nbsp;[vue-worker的介绍和使用](https://www.cnblogs.com/axl234/p/9254755.html)
+    - &nbsp;[Webpack 下使用 web workers 及 基本原理 和 应用场景](https://www.cnblogs.com/tugenhua0707/p/11253937.html)
+
+- &nbsp;**python使用**
+  - &nbsp;[Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
+- &nbsp;**科学上网**
+    - &nbsp;Github参考
+      - &nbsp;[fanqiang](https://github.com/bannedbook/fanqiang)
+      - &nbsp;[Free-VPN-for-Coursera](https://github.com/Y1ran/Free-VPN-for-Coursera)
+      - &nbsp;[lantern](https://github.com/getlantern/lantern)
+      - &nbsp;[]()
+    - &nbsp;VPN应用
+      - &nbsp;[HIDEme](https://member.hide.me/en/user/login)
